@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768528877393",
+    "project_id": "mkdiv-c072b",
+    "storage_bucket": "mkdiv-c072b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768528877393:android:82641c1f9f1adfc811f570",
+        "android_client_info": {
+          "package_name": "com.example.mkdiv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ZY4hpIm9w97w921cbe8wWwkKkB3ecBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
